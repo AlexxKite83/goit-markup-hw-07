@@ -1,0 +1,19 @@
+.header-list {
+  margin-left: 76px;
+}
+
+.header-list .item:not(:last-child) {
+  margin-right: 40px;
+}
+
+/* .address-list {
+   display: block; 
+} */
+
+.address-list .item + .item {
+  margin-left: 40px;
+}
+
+.mobile-menu-open {
+  display: none;
+}
